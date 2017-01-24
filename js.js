@@ -1,8 +1,4 @@
-/*
-..........................................
-Crafted and integrated by Felipe < f.alfonso.go@gmail.com >
-..........................................
-*/
+
 
 var direction = 'right',
      speed = 125,
@@ -11,26 +7,14 @@ var direction = 'right',
      score = 0,
      size = 50;
 
-
-
-
  var snakeCells = [
-			[10, 14],
-			[10, 13],
-			[10, 12],
-			[10, 11],
-			[10, 10],
-			[10, 9],
-			[10, 8],
-			[10, 7]
+			[10, 14],[10, 13],[10, 12],[10, 11],[10, 10],[10, 9],[10, 8],[10, 7]
 		];
-
-
-
 
  var snakeHead = [10, 14];
 
  function renderSnake() {
+	 
      $('td').removeClass('snakeCell snakeHead');
      for (var cell in snakeCells) {
          $('tr').eq(snakeCells[cell][0]).find('td').eq(snakeCells[cell][1]).addClass('snakeCell');
@@ -108,12 +92,9 @@ var direction = 'right',
  }
 
 
-
  function getRandomNumber(limit) {
      return parseInt(Math.random() * limit % limit);
  }
-
-
 
 
 
