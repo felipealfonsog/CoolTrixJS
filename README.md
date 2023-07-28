@@ -42,4 +42,4 @@ CoolTrixJS was created with love by Felipe Alfonso Gonzalez, a passionate comput
 
 #### License 📄
 
-CoolTrixJS is distributed under the GPL License. For more details, see the [GPL](https://github.com/username/CoolTrixJS/blob/main/LICENSE) file.
+CoolTrixJS is distributed under the GPL License.
