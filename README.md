@@ -1,11 +1,16 @@
 # CoolTrixJS
 
-![GitHub](https://img.shields.io/github/license/username/CoolTrixJS?style=flat-square)
-![GitHub issues](https://img.shields.io/github/issues/username/CoolTrixJS?style=flat-square)
-![GitHub last commit](https://img.shields.io/github/last-commit/username/CoolTrixJS?style=flat-square)
-![GitHub top language](https://img.shields.io/github/languages/top/username/CoolTrixJS?style=flat-square)
-![Vim](https://img.shields.io/badge/Vim-8.2-green?style=flat-square)
-![VSCode](https://img.shields.io/badge/VSCode-latest-blue?style=flat-square)
+![Version](https://img.shields.io/github/release/felipealfonsog/CoolTrixJS.svg?style=flat&color=blue)
+![Main Language](https://img.shields.io/github/languages/top/felipealfonsog/CoolTrixJS.svg?style=flat&color=blue)
+[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
+
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
+<!--
+[![GPL license](https://img.shields.io/badge/License-GPL-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
+-->
+
+[![Vim](https://img.shields.io/badge/--019733?logo=vim)](https://www.vim.org/)
+[![Visual Studio Code](https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff)](https://code.visualstudio.com/)
 
 CoolTrixJS is a simple and addictive open-source JavaScript mini-project that introduces a points-based game, inspired by the classic Tetris. Your goal is to arrange falling blocks strategically to complete lines and earn points.
 
